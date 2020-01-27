@@ -1,3 +1,12 @@
+"""
+============================================================================
+problem link: https://atcoder.jp/contests/nikkei2019-2-qual/tasks/nikkei2019_2_qual_b
+Language   : Python3
+Author     : Yu Saito
+Copyright  : use it under your responsibility
+============================================================================
+"""
+
 import sys
 read = lambda: sys.stdin.readline().rstrip()
 
