@@ -1,3 +1,10 @@
+//============================================================================
+//problem link: https://atcoder.jp/contests/abc130/tasks/abc130_d
+// Language   : Python3
+// Author     : Yu Saito
+// Copyright  : use it under your responsibility
+//============================================================================
+
 #import numpy as np
 #import math
 import sys
