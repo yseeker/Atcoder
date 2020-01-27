@@ -1,3 +1,12 @@
+"""
+============================================================================
+problem link: https://atcoder.jp/contests/abc130/tasks/abc130_d
+Language   : Python3
+Author     : Yu Saito
+Copyright  : use it under your responsibility
+============================================================================
+"""
+
 from math import gcd
 import sys
 from collections import Counter
