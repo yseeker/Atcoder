@@ -1,6 +1,6 @@
 """
 ============================================================================
-problem link: https://atcoder.jp/contests/abc130/tasks/abc130_d
+problem link: https://atcoder.jp/contests/abc142/tasks/abc142_d
 Language   : Python3
 Author     : Yu Saito
 Copyright  : use it under your responsibility
